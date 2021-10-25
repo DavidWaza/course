@@ -20,8 +20,8 @@ function hero() {
           >
             Digital Experience
           </p>
-          <p className="text-left py-10 font-mono text-3xl font-bold">Always Something new <br />to learn</p>
-          <p className="text-left py-1 font-mono text-md font-thin">With Something Always new to learn in our catalogue, you<br /> you always get the latest skills, Courses from N100,000 <br />through tomorrow.</p>
+          <p className="text-left py-5 font-mono text-3xl font-bold">Always Something new <br />to learn</p>
+          <p className="text-left py-3 font-mono text-md font-thin">With Something Always new to learn in our catalogue, you<br /> you always get the latest skills, Courses from N100,000 <br />through tomorrow.</p>
           <button className=" 
                 bg-gradient-to-r 
                 from-green-700 
