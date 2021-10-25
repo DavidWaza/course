@@ -1,4 +1,5 @@
 import React from "react";
+import '../App.css'
 
 function hero() {
   return (
@@ -16,6 +17,7 @@ function hero() {
                  subpixel-antialiased 
                  antialised
                   rounded-3xl
+                  linear
                   "
           >
             Digital Experience
@@ -40,7 +42,19 @@ function hero() {
                   rounded-3xl">Explore Courses</button>
         </div>
 
-        <div className="">Hello</div>
+        <div className="bg-gradient-to-r 
+                from-green-700 
+                via pink-500 
+                to-red-500 
+                h-50
+                w-80  
+                mx-56            
+                border-red-800
+                 p-3 
+                 font-mono 
+                 subpixel-antialiased 
+                 antialised
+                  rounded-full"></div>
       </div>
     </div>
   );
